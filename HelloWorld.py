@@ -1,5 +1,5 @@
 UserName = 'mgarcia'
-FullName = 'Mike Garcia'
+FullName = 'Mike J Garcia'
 print(UserName)
 print(FullName)
 
